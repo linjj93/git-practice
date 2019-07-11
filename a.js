@@ -7,3 +7,4 @@ const rebase = "hahahah";
 console.log(5);
 const haha = "not going to console log 6";
 const haha2 = "not going to console log 7";
+const a = 1;
